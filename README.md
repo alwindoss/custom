@@ -5,5 +5,4 @@ The configuration from the neovim go video
 
 - `cd ~/.config/nvim/lua`
 - `rm -rf custom`
-- `git submodule add --name custom git@github.com:alwindoss/neovim-go-config.git`
-- `mv neovim-go-config custom`
+- `git submodule -f git@github.com:alwindoss/custom.git`
